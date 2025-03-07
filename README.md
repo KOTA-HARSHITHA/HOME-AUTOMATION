@@ -30,7 +30,7 @@ Project Structure
  Installation:
 1. Clone this repository:**  
    ```bash
-   git clone https://github.com/your-username/home-automation.git
+   git clone https://github.com/KOTA-HARSHITHA/HOME-AUTOMATION
    cd home-automation
    ```
 2. Install dependencies:**  
